@@ -2,13 +2,13 @@
 
 1. Spend-some-time-working-with-file 
 
-* Command for File Information :-  1. file - determine file type
-                                   2. stat - display file status
+                                * Command for File Information :-  1. file - determine file type
+                                                                   2. stat - display file status
 
  
-* Absolute paths:-                 1. begins from the root of the file syatem
-                                       /home/scott/
-                                       /home/scott/Documents
+                                 * Absolute paths:-                 1. begins from the root of the file syatem
+                                                                        /home/scott/
+                                                                        /home/scott/Documents
                                                                 
 
                                                           
